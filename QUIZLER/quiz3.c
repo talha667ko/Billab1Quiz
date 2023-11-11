@@ -3,8 +3,8 @@
 // TALHA KORKMAZ 230202010
 
 
-int main()
-{
+int main(){
+   
 int cevap1;
 int cevapK;
 int cevapA;
