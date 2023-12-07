@@ -1,1 +1,1 @@
-# BillabQuiz1
+# Bilgiayar Laboratuvarı Quizleri.
