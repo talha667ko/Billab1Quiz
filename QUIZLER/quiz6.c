@@ -32,6 +32,7 @@ int main()
             }
             printf("\n");
         }
+        printf("3-10 arasi sayi giriniz: ");
     }
     else{
         printf("3-10 arasi sayi girmelisiniz. Tekrar giris yapiniz: ");
