@@ -1,1 +1,1 @@
-# Bilgiayar Laboratuvarı Quizleri.
+# Bilgisayar Laboratuvarı Quizleri.
